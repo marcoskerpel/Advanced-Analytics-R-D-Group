@@ -1,0 +1,27 @@
+For 2017, the Advanced Analytics R&D team would like to develop a customer presentation were we produce advanced analytics and visualizations in multiple platforms. 
+
+Specifically we selected two datasets to use as subject:
+•	Ordering System database used by the Cloud group on AWS
+•	Airline and flight statistics
+
+We would like to develop expertise with the following platforms and technologies:
+•	Hosted by AWS against redshift using R and Tableau
+•	Hosted AWS VM, using SQL Server 2016 and R
+•	Momentum Cloudera Hadoop cluster using R and Tableau
+•	Momentum 2016 SQL Server VM using R and Tableau
+
+We are thinking we will utilize GITHUB as project repository. 
+
+Also, we may decide to use SPSS, IBM Cognos Analytics and Watson Analytics if we deem it is beneficial for some tasks.
+
+Several tasks will be required once we start working on the plan:
+•	Data exploration using graphical tools like tableau
+•	Data exploration using modeling tools like R
+•	Modeling and Data loading into different platforms
+•	Advanced Analytics models using R
+
+At this point I would like to understand who is interested in participating in some of these tasks.  If you are please respond to me by Friday. Please note that we will be collaborating with the other R&D teams and that some tasks may be useful for several teams.
+
+Thanks
+
+
